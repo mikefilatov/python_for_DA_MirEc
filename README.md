@@ -1,2 +1,3 @@
-# python_for_DA_MirEc
-python-DA-MirEc
+# Python для анализа данных (МирЭк) 2020-2021
+
+## Материалы курса
